@@ -1,2 +1,5 @@
 Django==4.0
 python-dotenv==0.20.0
+celery==5.2.7
+redis==4.3.4
+crispy-bootstrap5==0.6
